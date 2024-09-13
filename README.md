@@ -4,7 +4,7 @@ A minimalist and professional HTML email signature template design.
 
 ## Features
 
-- **Personal Logo Display**
+- **Personal Logo Display or Picture**
 - **Professional Title and Expertise**
 - **Location Information**
 - **Contact Details (Email and Website)**
@@ -56,9 +56,7 @@ A minimalist and professional HTML email signature template design.
 - Paste it into your email client's signature settings.
 
 ## Compatibility
-
 Tested on:
-
 - Apple Mail
 - Gmail
 - Outlook
