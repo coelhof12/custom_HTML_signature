@@ -13,7 +13,7 @@ A minimalist and professional HTML email signature template design.
 
 ## Preview
 
-![Email Signature Preview](PREVIEW_IMAGE_URL)
+![Email Signature Preview](https://raw.githubusercontent.com/coelhof12/custom_HTML_signature/main/signature_preview.png)
 
 ## Getting Started
 
