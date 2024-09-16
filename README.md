@@ -2,6 +2,18 @@
 
 A minimalist and professional HTML email signature template design.
 
+## Table of Contents
+1. [Features](#features)
+2. [Preview](#preview)
+3. [Getting Started](#getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Customization Steps](#customization-steps)
+4. [Embedding Images in Email Signatures (Optional)](#embedding-images-in-email-signatures-optional)
+   - [How to Use the Shortcut](#how-to-use-the-shortcut)
+5. [Compatibility](#compatibility)
+6. [Contact](#contact)
+
+
 ## Features
 
 - **Personal Logo Display or Picture**
