@@ -50,12 +50,12 @@ A minimalist and professional HTML email signature template design.
 - Update color codes if you wish to change the color scheme.
 - Ensure fonts have appropriate fallbacks.
 
-5. **Implement the Signature**
+### **Implement the Signature**
 
 - Copy the entire HTML code.
 - Paste it into your email client's signature settings.
 
-6. ***Embedding Images in Email Signatures (Optional)***
+### ***Embedding Images in Email Signatures (Optional)***
 Why Use Base64 for Images instead of internet hosting?
 - No external image hosting: No need to upload your images to a separate server or hosting platform.
 - No "Download Images" prompt: Some email clients like Outlook automatically block images until downloaded. With Base64 encoding, the image will load automatically without the need for user intervention.
@@ -63,7 +63,7 @@ Why Use Base64 for Images instead of internet hosting?
 
 To encode image files, you can use an online platform like [base64encode.org](base64encode.org), or if you are a macOS user, I have created a shortcut specifically for this project.
 
-How to Use the Shortcut
+#### How to Use the Shortcut
 
 - Download the shortcut: [Base64 Image Encoder Shortcut](https://www.icloud.com/shortcuts/f29f2577e88f4158954279fd6b61acca)
 - Add the shortcut to your iPhone or Mac (macOS 12+).
@@ -74,7 +74,7 @@ How to Use the Shortcut
 Example:
 ```<img src="data:image/png;base64,ENCODED_BASE64_IMAGE_HERE" alt="Your Logo" />```
 
-## Compatibility
+### Compatibility
 Tested on:
 - Apple Mail
 - Gmail
