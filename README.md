@@ -77,11 +77,14 @@ To encode image files, you can use an online platform like [base64encode.org](ba
 
 #### How to Use the Shortcut
 
-- Download the shortcut: [Base64 Image Encoder Shortcut](https://www.icloud.com/shortcuts/f29f2577e88f4158954279fd6b61acca)
-- Add the shortcut to your iPhone or Mac (macOS 12+).
-- Provide a photo file in ***.png,*** ***.jpg,*** or ***.gif*** format.
-- The shortcut will encode the image and generate the correct Base64 syntax, copying it to your clipboard.
-- Paste the Base64 image code into your signature.html file where your image URLs are located.
+Encode Images with Ease Using Our iOS Shortcut
+
+If you're a macOS or iPhone user, simplify your workflow by using the Base64 Image Encoder Shortcut I have created, specifically for embedding images in HTML email signatures. Full details and instructions are available on our GitHub repository.
+
+How to Use the Shortcut:
+Visit the Base64 Image Encoder project on GitHub.
+Follow the instructions to download and use the shortcut.
+To learn more about the shortcut and stay updated with future versions, check out the [Base64 Image Encoder project on GitHub](https://github.com/coelhof12/ios-shortcuts-base64-encoder).
 
 Example:
 ```<img src="data:image/png;base64,ENCODED_BASE64_IMAGE_HERE" alt="Your Logo" />```
