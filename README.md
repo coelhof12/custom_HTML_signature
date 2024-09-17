@@ -2,6 +2,10 @@
 
 A minimalist and professional HTML email signature template design.
 
+## Preview
+
+![Email Signature Preview](https://raw.githubusercontent.com/coelhof12/custom_HTML_signature/main/signature_preview.png)
+
 ## Table of Contents
 1. [Features](#features)
 2. [Preview](#preview)
@@ -22,10 +26,6 @@ A minimalist and professional HTML email signature template design.
 - **Contact Details (Email and Website)**
 - **Social Media Links (LinkedIn & GitHub)**
 - **Compatibility with Major Email Clients**
-
-## Preview
-
-![Email Signature Preview](https://raw.githubusercontent.com/coelhof12/custom_HTML_signature/main/signature_preview.png)
 
 ## Getting Started
 
