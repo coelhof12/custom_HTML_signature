@@ -2,6 +2,11 @@
 
 A minimalist and professional HTML email signature template design.
 
+
+## Additional Information
+
+Test Text
+
 ## Preview
 
 ![Email Signature Preview](https://raw.githubusercontent.com/coelhof12/custom_HTML_signature/main/signature_preview.png)
