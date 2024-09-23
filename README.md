@@ -2,16 +2,16 @@
 
 A minimalist and professional HTML email signature template design.
 
-
 ## Additional Information
 
 Test Text
 
 ## Preview
 
-![Email Signature Preview](https://raw.githubusercontent.com/coelhof12/custom_HTML_signature/main/signature_preview.png)
+![Email Signature Preview](./assets/Repo_Cover.jpg)
 
 ## Table of Contents
+
 1. [Features](#features)
 2. [Preview](#preview)
 3. [Getting Started](#getting-started)
@@ -21,7 +21,6 @@ Test Text
    - [How to Use the Shortcut](#how-to-use-the-shortcut)
 5. [Compatibility](#compatibility)
 6. [Contact](#contact)
-
 
 ## Features
 
@@ -49,7 +48,7 @@ Test Text
 
 2. **Update Personal Information**
 
-- Open the ```signature.html``` file in your text editor.
+- Open the `signature.html` file in your text editor.
 - Replace placeholder text with your personal details:
   - Name
   - Title
@@ -60,7 +59,7 @@ Test Text
 3. **Add Your Logo and Icons**
 
 - Upload your logo and social media icons to an image hosting service.
-- Replace ```YOUR_LOGO_URL_HERE```, ```LINKEDIN_ICON_URL```, and ```GITHUB_ICON_URL``` with the direct image URLs.
+- Replace `YOUR_LOGO_URL_HERE`, `LINKEDIN_ICON_URL`, and `GITHUB_ICON_URL` with the direct image URLs.
 
 4. **Adjust Colors and Fonts (Optional)**
 
@@ -72,11 +71,13 @@ Test Text
 - Copy the entire HTML code.
 - Paste it into your email client's signature settings.
 
-### ***Embedding Images in Email Signatures (Optional)***
+### **_Embedding Images in Email Signatures (Optional)_**
+
 Why Use Base64 for Images instead of internet hosting?
+
 - No external image hosting: No need to upload your images to a separate server or hosting platform.
 - No "Download Images" prompt: Some email clients like Outlook automatically block images until downloaded. With Base64 encoding, the image will load automatically without the need for user intervention.
-- Reliable display: Ensures your logo or icons appear as intended in all major email clients. 
+- Reliable display: Ensures your logo or icons appear as intended in all major email clients.
 
 To encode image files, you can use an online platform like [base64encode.org](base64encode.org), or if you are a macOS user, I have created a shortcut specifically for this project.
 
@@ -92,10 +93,12 @@ Follow the instructions to download and use the shortcut.
 To learn more about the shortcut and stay updated with future versions, check out the [Base64 Image Encoder project on GitHub](https://github.com/coelhof12/ios-shortcuts-base64-encoder).
 
 Example:
-```<img src="data:image/png;base64,ENCODED_BASE64_IMAGE_HERE" alt="Your Logo" />```
+`<img src="data:image/png;base64,ENCODED_BASE64_IMAGE_HERE" alt="Your Logo" />`
 
 ### Compatibility
+
 Tested on:
+
 - Apple Mail
 - Gmail
 - Outlook
