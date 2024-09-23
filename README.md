@@ -10,7 +10,7 @@ This template is easy to customize and compatible with major email clients like 
 
 ## Preview
 
-![Siganture Preview](./assets/siganture_preview.png)
+![Siganture Preview](https://raw.githubusercontent.com/coelhof12/custom_HTML_signature/refs/heads/main/assets/signature_preview.png)
 
 ## Table of Contents
 
