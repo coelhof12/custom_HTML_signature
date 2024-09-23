@@ -2,7 +2,7 @@
 
 A minimalist and professional HTML email signature template design.
 
-![Project Cover](./assets/Repo_Cover.jpg)
+![Project Cover](https://raw.githubusercontent.com/coelhof12/custom_HTML_signature/main/assets/Repo_Cover.jpg)
 
 ## Additional Information
 
