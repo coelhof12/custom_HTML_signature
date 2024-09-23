@@ -2,13 +2,15 @@
 
 A minimalist and professional HTML email signature template design.
 
+![Project Cover](./assets/Repo_Cover.jpg)
+
 ## Additional Information
 
 Test Text
 
 ## Preview
 
-![Email Signature Preview](./assets/Repo_Cover.jpg)
+![Siganture Preview](./assets/siganture_preview.png)
 
 ## Table of Contents
 
