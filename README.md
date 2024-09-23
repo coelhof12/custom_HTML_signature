@@ -6,7 +6,7 @@ A minimalist and professional HTML email signature template design.
 
 ## Additional Information
 
-Test Text
+This repository offers a simple yet customizable HTML email signature template designed for seamless integration with major email clients. Follow the steps below to personalize the signature with your own information, logo, and social media links.
 
 ## Preview
 
