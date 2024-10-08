@@ -68,12 +68,12 @@ This template is easy to customize and compatible with major email clients like 
 - Update color codes if you wish to change the color scheme.
 - Ensure fonts have appropriate fallbacks.
 
-### **Implement the Signature**
+### **Implement the Signature** ✍️
 
 - Copy the entire HTML code.
 - Paste it into your email client's signature settings.
 
-### **_Embedding Images in Email Signatures (Optional)_**
+### **_Embedding Images in Email Signatures (Optional)_** 🖼️
 
 Why Use Base64 for Images instead of internet hosting?
 
@@ -83,7 +83,7 @@ Why Use Base64 for Images instead of internet hosting?
 
 To encode image files, you can use an online platform like [base64encode.org](base64encode.org), or if you are a macOS user, I have created a shortcut specifically for this project.
 
-#### How to Use the Shortcut 🔧
+#### How to Use the Shortcut
 
 Encode Images with Ease Using Our iOS Shortcut
 
