@@ -1,18 +1,18 @@
-# HTML Email Signature Template
+# HTML Email Signature Template ✉️
 
 A minimalist and professional HTML email signature template design.
 
 ![Project Cover](https://raw.githubusercontent.com/coelhof12/custom_HTML_signature/main/assets/Repo_Cover.jpg)
 
-## The Concept
+## The Concept 💡
 
 This template is easy to customize and compatible with major email clients like Apple Mail and Gmail. Offers a simple yet customizable HTML email signature template designed for seamless integration with major email clients. Follow the steps below to personalize the signature with your own information, logo, and social media links. 
 
-## Preview
+## Preview 👀
 
 ![Siganture Preview](https://raw.githubusercontent.com/coelhof12/custom_HTML_signature/refs/heads/main/assets/signature_preview.png)
 
-## Table of Contents
+## Table of Contents 📚
 
 1. [Features](#features)
 2. [Preview](#preview)
@@ -24,7 +24,7 @@ This template is easy to customize and compatible with major email clients like 
 5. [Compatibility](#compatibility)
 6. [Contact](#contact)
 
-## Features
+## Features ✨
 
 - **Personal Logo Display or Picture**
 - **Professional Title and Expertise**
@@ -33,16 +33,16 @@ This template is easy to customize and compatible with major email clients like 
 - **Social Media Links (LinkedIn & GitHub)**
 - **Compatibility with Major Email Clients**
 
-## Getting Started
+## Getting Started 🚀
 
-### **Prerequisites**
+### **Prerequisites** ✅
 
 - A text editor to customize the HTML code.
 - Hosting for your images (logo and social media icons).
 
-### **Customization Steps**
+### **Customization Steps** 🎨
 
-1. **Clone or Download the Repository**
+1. **Clone or Download the Repository** 
 
    ```bash
    git clone https://github.com/yourusername/email-signature-template.git
@@ -83,7 +83,7 @@ Why Use Base64 for Images instead of internet hosting?
 
 To encode image files, you can use an online platform like [base64encode.org](base64encode.org), or if you are a macOS user, I have created a shortcut specifically for this project.
 
-#### How to Use the Shortcut
+#### How to Use the Shortcut 🔧
 
 Encode Images with Ease Using Our iOS Shortcut
 
@@ -97,7 +97,7 @@ To learn more about the shortcut and stay updated with future versions, check ou
 Example:
 `<img src="data:image/png;base64,ENCODED_BASE64_IMAGE_HERE" alt="Your Logo" />`
 
-### Compatibility
+### Compatibility 📱
 
 Tested on:
 
@@ -105,6 +105,6 @@ Tested on:
 - Gmail
 - Outlook
 
-### Contact
+### Contact 📬
 
 Feel free to reach out via email for any questions.
